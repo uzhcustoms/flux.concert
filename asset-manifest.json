@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flux.concert/static/css/main.49449720.chunk.css",
+    "main.js": "/flux.concert/static/js/main.04a9f275.chunk.js",
+    "main.js.map": "/flux.concert/static/js/main.04a9f275.chunk.js.map",
+    "runtime-main.js": "/flux.concert/static/js/runtime-main.94d9cc56.js",
+    "runtime-main.js.map": "/flux.concert/static/js/runtime-main.94d9cc56.js.map",
+    "static/js/2.c16f23ea.chunk.js": "/flux.concert/static/js/2.c16f23ea.chunk.js",
+    "static/js/2.c16f23ea.chunk.js.map": "/flux.concert/static/js/2.c16f23ea.chunk.js.map",
+    "static/js/3.102e5743.chunk.js": "/flux.concert/static/js/3.102e5743.chunk.js",
+    "static/js/3.102e5743.chunk.js.map": "/flux.concert/static/js/3.102e5743.chunk.js.map",
+    "index.html": "/flux.concert/index.html",
+    "static/css/main.49449720.chunk.css.map": "/flux.concert/static/css/main.49449720.chunk.css.map",
+    "static/js/2.c16f23ea.chunk.js.LICENSE.txt": "/flux.concert/static/js/2.c16f23ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94d9cc56.js",
+    "static/js/2.c16f23ea.chunk.js",
+    "static/css/main.49449720.chunk.css",
+    "static/js/main.04a9f275.chunk.js"
+  ]
+}
